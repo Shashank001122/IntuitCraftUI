@@ -1,0 +1,4 @@
+{
+    "/name/:name": "/countries?name.common=:name",
+    "/region/:region": "/countries?region=:region"
+  }

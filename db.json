@@ -1,0 +1,533 @@
+{
+    "countries": [
+      {
+        "name": {
+          "common": "China",
+          "nativeName": "中国"
+        },
+        "flags": {
+          "svg": "https://flagcdn.com/cn.svg"
+        },
+        "population": 1402112000,
+        "area": 9596961,
+        "region": "Asia",
+        "capital": ["Beijing"],
+        "currencies": [
+          {
+            "code": "CNY",
+            "name": "Chinese yuan"
+          }
+        ],
+        "languages": [
+          {
+            "code": "zh",
+            "name": "Chinese"
+          }
+        ],
+        "borders": ["AFG", "BTN", "MMR", "HKG", "IND", "KAZ", "PRK", "KGZ", "LAO", "MAC", "MNG", "PAK", "RUS", "TJK", "VNM"]
+      },
+      {
+        "name": {
+          "common": "India",
+          "nativeName": "भारत"
+        },
+        "flags": {
+          "svg": "https://flagcdn.com/in.svg"
+        },
+        "population": 1380004385,
+        "area": 3287263,
+        "region": "Asia",
+        "capital": ["New Delhi"],
+        "currencies": [
+          {
+            "code": "INR",
+            "name": "Indian rupee"
+          }
+        ],
+        "languages": [
+          {
+            "code": "hi",
+            "name": "Hindi"
+          },
+          {
+            "code": "en",
+            "name": "English"
+          }
+        ],
+        "borders": ["BGD", "BTN", "MMR", "CHN", "NPL", "PAK", "LKA"]
+      },
+      {
+        "name": {
+          "common": "United States",
+          "nativeName": "United States"
+        },
+        "flags": {
+          "svg": "https://flagcdn.com/us.svg"
+        },
+        "population": 331893745,
+        "area": 9372610,
+        "region": "Americas",
+        "capital": ["Washington, D.C."],
+        "currencies": [
+          {
+            "code": "USD",
+            "name": "United States dollar"
+          }
+        ],
+        "languages": [
+          {
+            "code": "en",
+            "name": "English"
+          }
+        ],
+        "borders": ["CAN", "MEX"]
+      },
+      {
+        "name": {
+          "common": "Indonesia",
+          "nativeName": "Indonesia"
+        },
+        "flags": {
+          "svg": "https://flagcdn.com/id.svg"
+        },
+        "population": 273523621,
+        "area": 1904569,
+        "region": "Asia",
+        "capital": ["Jakarta"],
+        "currencies": [
+          {
+            "code": "IDR",
+            "name": "Indonesian rupiah"
+          }
+        ],
+        "languages": [
+          {
+            "code": "id",
+            "name": "Indonesian"
+          }
+        ],
+        "borders": []
+      },
+      {
+        "name": {
+          "common": "Brazil",
+          "nativeName": "Brasil"
+        },
+        "flags": {
+          "svg": "https://flagcdn.com/br.svg"
+        },
+        "population": 212559409,
+        "area": 8515767,
+        "region": "Americas",
+        "capital": ["Brasília"],
+        "currencies": [
+          {
+            "code": "BRL",
+            "name": "Brazilian real"
+          }
+        ],
+        "languages": [
+          {
+            "code": "pt",
+            "name": "Portuguese"
+          }
+        ],
+        "borders": ["ARG", "BOL", "COL", "GUY", "PRY", "PER", "SUR", "URY", "VEN"]
+      },
+      {
+        "name": {
+          "common": "Nigeria",
+          "nativeName": "Nigeria"
+        },
+        "flags": {
+          "svg": "https://flagcdn.com/ng.svg"
+        },
+        "population": 206139587,
+        "area": 923768,
+        "region": "Africa",
+        "capital": ["Abuja"],
+        "currencies": [
+          {
+            "code": "NGN",
+            "name": "Nigerian naira"
+          }
+        ],
+        "languages": [
+          {
+            "code": "en",
+            "name": "English"
+          }
+        ],
+        "borders": ["BEN", "CMR", "TCD", "NER"]
+      },
+      {
+        "name": {
+          "common": "Bangladesh",
+          "nativeName": "বাংলাদেশ"
+        },
+        "flags": {
+          "svg": "https://flagcdn.com/bd.svg"
+        },
+        "population": 164689383,
+        "area": 147570,
+        "region": "Asia",
+        "capital": ["Dhaka"],
+        "currencies": [
+          {
+            "code": "BDT",
+            "name": "Bangladeshi taka"
+          }
+        ],
+        "languages": [
+          {
+            "code": "bn",
+            "name": "Bengali"
+          }
+        ],
+        "borders": ["MMR", "IND"]
+      },
+      {
+        "name": {
+          "common": "Russia",
+          "nativeName": "Россия"
+        },
+        "flags": {
+          "svg": "https://flagcdn.com/ru.svg"
+        },
+        "population": 145912025,
+        "area": 17098242,
+        "region": "Europe",
+        "capital": ["Moscow"],
+        "currencies": [
+          {
+            "code": "RUB",
+            "name": "Russian ruble"
+          }
+        ],
+        "languages": [
+          {
+            "code": "ru",
+            "name": "Russian"
+          }
+        ],
+        "borders": ["AZE", "BLR", "CHN", "EST", "FIN", "GEO", "KAZ", "PRK", "LVA", "LTU", "MNG", "NOR", "POL", "UKR"]
+      },
+      {
+        "name": {
+          "common": "Mexico",
+          "nativeName": "México"
+        },
+        "flags": {
+          "svg": "https://flagcdn.com/mx.svg"
+        },
+        "population": 128932753,
+        "area": 1964375,
+        "region": "Americas",
+        "capital": ["Mexico City"],
+        "currencies": [
+          {
+            "code": "MXN",
+            "name": "Mexican peso"
+          }
+        ],
+        "languages": [
+          {
+            "code": "es",
+            "name": "Spanish"
+          }
+        ],
+        "borders": ["BLZ", "GTM", "USA"]
+      },
+      {
+        "name": {
+          "common": "Japan",
+          "nativeName": "日本"
+        },
+        "flags": {
+          "svg": "https://flagcdn.com/jp.svg"
+        },
+        "population": 126476458,
+        "area": 377930,
+        "region": "Asia",
+        "capital": ["Tokyo"],
+        "currencies": [
+          {
+            "code": "JPY",
+            "name": "Japanese yen"
+          }
+        ],
+        "languages": [
+          {
+            "code": "ja",
+            "name": "Japanese"
+          }
+        ],
+        "borders": []
+      },
+      {
+        "name": {
+          "common": "Ethiopia",
+          "nativeName": "ኢትዮጵያ"
+        },
+        "flags": {
+          "svg": "https://flagcdn.com/et.svg"
+        },
+        "population": 114963588,
+        "area": 1104300,
+        "region": "Africa",
+        "capital": ["Addis Ababa"],
+        "currencies": [
+          {
+            "code": "ETB",
+            "name": "Ethiopian birr"
+          }
+        ],
+        "languages": [
+          {
+            "code": "am",
+            "name": "Amharic"
+          }
+        ],
+        "borders": ["DJI", "ERI", "KEN", "SOM", "SSD", "SDN"]
+      },
+      {
+        "name": {
+          "common": "Philippines",
+          "nativeName": "Pilipinas"
+        },
+        "flags": {
+          "svg": "https://flagcdn.com/ph.svg"
+        },
+        "population": 109581085,
+        "area": 342353,
+        "region": "Asia",
+        "capital": ["Manila"],
+        "currencies": [
+          {
+            "code": "PHP",
+            "name": "Philippine peso"
+          }
+        ],
+        "languages": [
+          {
+            "code": "en",
+            "name": "English"
+          },
+          {
+            "code": "fil",
+            "name": "Filipino"
+          }
+        ],
+        "borders": []
+      },
+      {
+        "name": {
+          "common": "Egypt",
+          "nativeName": "مصر‎"
+        },
+        "flags": {
+          "svg": "https://flagcdn.com/eg.svg"
+        },
+        "population": 102334403,
+        "area": 1002450,
+        "region": "Africa",
+        "capital": ["Cairo"],
+        "currencies": [
+          {
+            "code": "EGP",
+            "name": "Egyptian pound"
+          }
+        ],
+        "languages": [
+          {
+            "code": "ar",
+            "name": "Arabic"
+          }
+        ],
+        "borders": ["ISR", "LBY", "SDN"]
+      },
+      {
+        "name": {
+          "common": "Vietnam",
+          "nativeName": "Việt Nam"
+        },
+        "flags": {
+          "svg": "https://flagcdn.com/vn.svg"
+        },
+        "population": 97338583,
+        "area": 331212,
+        "region": "Asia",
+        "capital": ["Hanoi"],
+        "currencies": [
+          {
+            "code": "VND",
+            "name": "Vietnamese đồng"
+          }
+        ],
+        "languages": [
+          {
+            "code": "vi",
+            "name": "Vietnamese"
+          }
+        ],
+        "borders": ["KHM", "CHN", "LAO"]
+      },
+      {
+        "name": {
+          "common": "DR Congo",
+          "nativeName": "République démocratique du Congo"
+        },
+        "flags": {
+          "svg": "https://flagcdn.com/cd.svg"
+        },
+        "population": 89561403,
+        "area": 2344858,
+        "region": "Africa",
+        "capital": ["Kinshasa"],
+        "currencies": [
+          {
+            "code": "CDF",
+            "name": "Congolese franc"
+          }
+        ],
+        "languages": [
+          {
+            "code": "fr",
+            "name": "French"
+          }
+        ],
+        "borders": ["AGO", "BDI", "CAF", "COG", "RWA", "SSD", "TZA", "UGA", "ZMB"]
+      },
+      {
+        "name": {
+          "common": "Turkey",
+          "nativeName": "Türkiye"
+        },
+        "flags": {
+          "svg": "https://flagcdn.com/tr.svg"
+        },
+        "population": 84339067,
+        "area": 783562,
+        "region": "Asia",
+        "capital": ["Ankara"],
+        "currencies": [
+          {
+            "code": "TRY",
+            "name": "Turkish lira"
+          }
+        ],
+        "languages": [
+          {
+            "code": "tr",
+            "name": "Turkish"
+          }
+        ],
+        "borders": ["ARM", "AZE", "BGR", "GEO", "GRC", "IRN", "IRQ", "SYR"]
+      },
+      {
+        "name": {
+          "common": "Iran",
+          "nativeName": "ایران"
+        },
+        "flags": {
+          "svg": "https://flagcdn.com/ir.svg"
+        },
+        "population": 83992953,
+        "area": 1648195,
+        "region": "Asia",
+        "capital": ["Tehran"],
+        "currencies": [
+          {
+            "code": "IRR",
+            "name": "Iranian rial"
+          }
+        ],
+        "languages": [
+          {
+            "code": "fa",
+            "name": "Persian"
+          }
+        ],
+        "borders": ["AFG", "ARM", "AZE", "IRQ", "PAK", "TUR", "TKM"]
+      },
+      {
+        "name": {
+          "common": "Germany",
+          "nativeName": "Deutschland"
+        },
+        "flags": {
+          "svg": "https://flagcdn.com/de.svg"
+        },
+        "population": 83783945,
+        "area": 357114,
+        "region": "Europe",
+        "capital": ["Berlin"],
+        "currencies": [
+          {
+            "code": "EUR",
+            "name": "Euro"
+          }
+        ],
+        "languages": [
+          {
+            "code": "de",
+            "name": "German"
+          }
+        ],
+        "borders": ["AUT", "BEL", "CZE", "DNK", "FRA", "LUX", "NLD", "POL", "CHE"]
+      },
+      {
+        "name": {
+          "common": "Thailand",
+          "nativeName": "ประเทศไทย"
+        },
+        "flags": {
+          "svg": "https://flagcdn.com/th.svg"
+        },
+        "population": 69799978,
+        "area": 513120,
+        "region": "Asia",
+        "capital": ["Bangkok"],
+        "currencies": [
+          {
+            "code": "THB",
+            "name": "Thai baht"
+          }
+        ],
+        "languages": [
+          {
+            "code": "th",
+            "name": "Thai"
+          }
+        ],
+        "borders": ["MMR", "KHM", "LAO", "MYS"]
+      },
+      {
+        "name": {
+          "common": "United Kingdom",
+          "nativeName": "United Kingdom"
+        },
+        "flags": {
+          "svg": "https://flagcdn.com/gb.svg"
+        },
+        "population": 67886011,
+        "area": 243610,
+        "region": "Europe",
+        "capital": ["London"],
+        "currencies": [
+          {
+            "code": "GBP",
+            "name": "British pound"
+          }
+        ],
+        "languages": [
+          {
+            "code": "en",
+            "name": "English"
+          }
+        ],
+        "borders": ["IRL"]
+      }
+    ]
+  }
+  
