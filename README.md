@@ -15,9 +15,9 @@ Open http://localhost:3000 to view it in your browser and run .
 App takes some time to run, please wait till then
 
 ### UML/Classs diagram :
-(https://github.com/Shashank001122/IntuitUICountry/class.png)
+(https://github.com/Shashank001122/IntuitCraftUI/class.png)
 #### ER diagram is : 
-(https://github.com/Shashank001122/IntuitUICountry/er.png)
+(https://github.com/Shashank001122/IntuitCraftUI/er.png)
 #### PowerPoint Presentation is : 
 (https://docs.google.com/presentation/d/1baIcD1s_Jnd4V9T1WvbDlbFXj7CtymXVvaxWxAErVFc/)
 
