@@ -1,9 +1,9 @@
 ### Disclaimer: the rest api https://restcountries.com/ mentioned in assignment is not working, I created a mock api using json-server to get data
 
 ### To download this project
-Use git cli and run command- git clone https://github.com/Shashank001122/IntuitCraftDemo.git
+Use git cli and run command- git clone https://github.com/Shashank001122/IntuitCraftUI.git
 or you can download the zip file from the Github UI
-### To run this project go inside the IntuitUICountry folder
+### To run this project go inside the IntuitCraftUI folder
 ### this project runs with node version 20.0.0. 
 1) Please use nvm utility to install Node v20.0.0 using command nvm install 20.0.0 
 2) To use node 20.0.0, run nvm use 20.0.0
@@ -15,9 +15,9 @@ Open http://localhost:3000 to view it in your browser and run .
 App takes some time to run, please wait till then
 
 ### UML/Classs diagram :
-(https://github.com/Shashank001122/IntuitUICountry/blob/main/src/class.png)
+(https://github.com/Shashank001122/IntuitUICountry/class.png)
 #### ER diagram is : 
-(https://github.com/Shashank001122/IntuitUICountry/blob/main/src/er.PNG)
+(https://github.com/Shashank001122/IntuitUICountry/er.png)
 #### PowerPoint Presentation is : 
 (https://docs.google.com/presentation/d/1baIcD1s_Jnd4V9T1WvbDlbFXj7CtymXVvaxWxAErVFc/)
 
